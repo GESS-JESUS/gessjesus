@@ -1,5 +1,5 @@
-##Olá! Eu sou Gessica de Jesus
-- 💻 Desenvolvedora Beck-End Java
+Olá! Eu sou Gessica de Jesus
+- 💻 Desenvolvedora Back-End Java
 - 📚 Estudando IA
 - CEO - Shilo Code
 
