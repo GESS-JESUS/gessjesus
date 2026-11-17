@@ -69,10 +69,6 @@ Acredito que a tecnologia vai além do código: é uma ferramenta para resolver 
   <img src="https://skillicons.dev/icons?i=git,github,linux,aws" />
 </div>
 
-### 🔗 Integração e APIs
-
-![REST APIs](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
 ---
 
 ## 🚀 Projetos e desenvolvimento
