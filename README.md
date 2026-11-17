@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/shilocode">
-  <img src="https://img.shields.io/badge/Instagram-SILOCODE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-SHILOCODE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://wa.me/5579998672617">
   <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
